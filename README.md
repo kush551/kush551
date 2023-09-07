@@ -1,4 +1,4 @@
-<div>
+<div style="background-color: #f2f2f2; color: #333; font-family: 'Arial', sans-serif; padding: 20px; border-radius: 5px;">
   <h2>About Me</h2>
   <p>👋 Hi there, I'm Kushagra Kumar, a high school student residing in Deoghar, Jharkhand.</p>
   <p>🎒 I currently attend St. Xavier High School in Deoghar.</p>
