@@ -71,7 +71,8 @@
 
 <div align="center">
   <!-- If the snake graphic doesn’t show up, fork or set up the GitHub Action from https://github.com/Platane/snk -->
-  <img src="https://github.com/kush551/kush551/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+![Snake animation](https://github.com/kush551/kush551/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
